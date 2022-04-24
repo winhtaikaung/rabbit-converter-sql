@@ -3,7 +3,7 @@
 ![Logo](https://avatars3.githubusercontent.com/u/11961573?v=3&s=100)
 
 
-**Un Official another Zawgyi <=> Unicode Converter for Database**
+**UnOfficial another Zawgyi <=> Unicode Converter for Database**
 
 ## Installation
 
